@@ -1,0 +1,4 @@
+docker build -t my-stop-words-removal .
+
+docker run my-stop-words-removal
+
